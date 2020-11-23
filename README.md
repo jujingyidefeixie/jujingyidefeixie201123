@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
@@ -370,3 +371,6 @@ Questions?
 
 If you have any questions, please feel free to ask on the
 [Developing jQuery Core forum](https://forum.jquery.com/developing-jquery-core) or in #jquery on irc.freenode.net.
+=======
+# jujingyidefeixie201123.github.io
+>>>>>>> be01d796714cfcb1c8f2389669f528494e7adfe2
